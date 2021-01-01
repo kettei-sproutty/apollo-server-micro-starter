@@ -1,4 +1,19 @@
+This is a small starter pack to integrate apollo-server-micro, where `authorization` and `authentication` are managed through **"directives"**.
+
+### Run the example:
+
+> Resolvers are placeholders.
+
+```sh
+git clone https://github.com/kettei-sproutty/apollo-server-micro-starter.git
+yarn
+yarn dev
+```
+
+
 # Implementing NEXTJS api routes
+> If you are using nextjs replace ".env" and "dotenv" with the nextjs environment variable management (next.config.js): ![Click here for the documentation](https://nextjs.org/docs/basic-features/environment-variables)
+
 
 > /api/graphql.ts
 
